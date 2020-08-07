@@ -6,6 +6,7 @@
 using Pkg
 
 useful_packages = [
+    :IJulia,
     :PyPlot,
     :CSV,
     :DataFrames,
