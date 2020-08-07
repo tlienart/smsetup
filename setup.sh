@@ -3,10 +3,8 @@
 # ---------------
 
 cd /home/ec2-user/SageMaker
- 
-sudo yum -y install zsh
 
-zsh
+sudo yum -y install zsh
 
 aws configure
 
