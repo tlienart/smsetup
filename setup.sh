@@ -5,6 +5,7 @@
 cd /home/ec2-user/SageMaker
 
 sudo yum -y install zsh
+sudo yum -y install htop
 
 aws configure
 
