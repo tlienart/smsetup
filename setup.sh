@@ -26,3 +26,5 @@ export PATH="$PATH:/home/ec2-user/SageMaker/julia-$vlong/bin/"
 
 pip install --upgrade pip
 pip install --upgrade numpy scipy pandas tqdm matplotlib seaborn
+
+clear
